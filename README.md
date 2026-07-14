@@ -1,4 +1,5 @@
 Quantitative (12 topics)
+
 ✅ Number System
 ✅ Simplification
 ✅ Percentages
@@ -11,6 +12,8 @@ Quantitative (12 topics)
 ✅ Probability (Basics)
 ✅ Data Interpretation
 ✅ Data Sufficiency
+
+
 Logical Reasoning (12 topics)
 ✅ Number Series
 ✅ Alphabet Series
@@ -24,7 +27,10 @@ Logical Reasoning (12 topics)
 ✅ Statement & Conclusion
 ✅ Syllogism
 ✅ Puzzles
+
 Verbal (8 topics)
+
+
 ✅ Reading Comprehension
 ✅ Error Spotting
 ✅ Sentence Correction
